@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zabbix_export>
+    <version>4.0</version>
+    <date>2019-07-09T08:20:15Z</date>
+    <groups>
+        <group>
+            <name>Templates</name>
+        </group>
+    </groups>
+    <templates>
+        <template>
+            <template>Template Barracuda NG Firewall SNMP without VPN</template>
+            <name>Template Barracuda NG Firewall SNMP without VPN</name>
+            <description/>
+            <groups>
+                <group>
+                    <name>Templates</name>
+                </group>
+            </groups>
+            <applications/>
+            <items/>
+            <discovery_rules/>
+            <httptests/>
+            <macros/>
+            <templates>
+                <template>
+                    <name>Template Barracuda NG Firewall SNMP</name>
+                </template>
+            </templates>
+            <screens/>
+        </template>
+    </templates>
+</zabbix_export>
